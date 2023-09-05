@@ -1,0 +1,72 @@
+h1{
+	text-align: center;
+
+	color: #59F013;
+}
+h2{
+	color: white;
+	width: 80%;
+	margin: 0 auto;
+}
+h3{
+	color: white;
+}
+
+a{ color: white;
+	text-align: center;
+}
+nav { 
+	font-size: 25px;
+	width: 80%;
+	margin: 0 auto;
+
+}
+p{ font-size: 80px;
+	color: green;
+	margin-left:600px;
+	margin-top: 80px;	
+}	
+label{
+	font-size: 25px;
+	color: white;
+}
+ol{
+	color: white;
+}
+in-text{
+		width:100% ;	
+}
+form{
+	width: 80%;
+	margin: 0 auto;
+}
+
+.imgretro{
+	width: 250px;
+	height: 200px;
+	border-radius: 5px;
+	filter: saturate(20%);
+}
+.imgretro:hover{
+	width: 255px;
+	height: 205px;
+	opacity: 1;
+	filter: saturate(100%);
+}
+th{
+	width: 15%;
+	 font-size: 25px;
+	
+	color: white;
+}
+td{
+	width: 30%;
+	 font-size: 25px;
+	
+	color: white;
+}
+.icon{
+	margin-left:100px;
+	margin-top: 80px;
+}
+
